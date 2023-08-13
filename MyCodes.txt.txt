@@ -14,8 +14,12 @@ this is for 7
 v==>8 some changes from GitHub!!!
 v-->9 local changes
 
+<<<<<<< HEAD
 
 new changes whioutpull
 
 
+=======
+version ten remote change
+>>>>>>> b6b160ae2c8aee96bdfe2b6c6aa6a5e6d2ae7aba
 
